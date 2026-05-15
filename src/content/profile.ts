@@ -24,7 +24,7 @@ export const profile = {
   // Replace these with your real handles. Used in the contact gateway + footer.
   social: {
     github: "https://github.com/lidugirma60",
-    linkedin: "https://www.linkedin.com/in/selemgirma",
+    linkedin: "https://www.linkedin.com/in/lidu-girma-74b37240a",
     email: "selamgirma8076@gmail.com",
     telegram: "https://t.me/Lidoo13",
     twitter: "https://x.com/selemgirma",
