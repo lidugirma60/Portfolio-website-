@@ -26,7 +26,7 @@ export const profile = {
     github: "https://github.com/lidugirma60",
     linkedin: "https://www.linkedin.com/in/selemgirma",
     email: "selamgirma8076@gmail.com",
-    telegram: "https://t.me/selemgirma",
+    telegram: "https://t.me/Lidoo13",
     twitter: "https://x.com/selemgirma",
     youtube: "https://youtube.com/@selemgirma",
     domain: "https://selemgirma.dev",
