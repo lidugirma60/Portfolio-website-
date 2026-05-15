@@ -196,6 +196,36 @@ export const projects: ProjectModule[] = [
       live: "https://pixelforge.selemgirma.dev",
     },
   },
+  {
+    id: "haramaya-portal",
+    code: "MOD-07",
+    title: "Haramaya Portal",
+    role: "FLAGSHIP",
+    tagline: "University management & academic services portal.",
+    function:
+      "A web-based university management system that streamlines academic and administrative services, providing role-based access for students, instructors, and administrators to manage courses, academic records, user information, and institutional operations through a centralized digital portal.",
+    stack: ["TypeScript", "Next.js", "React", "Tailwind", "Node.js", "PostgreSQL"],
+    threat:
+      "Cross-role data leakage, privilege escalation between students/instructors/admins, and weak session boundaries in academic systems handling sensitive records.",
+    relevance:
+      "Demonstrates real-world multi-tenant role-based access control, identity boundaries, and institutional-grade data handling at production scale.",
+    depth: [
+      "Role-based authorization with strict boundaries between student, instructor, and admin contexts.",
+      "Centralized academic record handling with audit trails and validated state transitions.",
+    ],
+    features: [
+      "Role-based access control (student/instructor/admin)",
+      "Course & academic record management",
+      "User & institutional operations dashboard",
+      "Centralized administrative services",
+    ],
+    categories: ["FULLSTACK", "PLATFORM"],
+    state: "ACTIVE",
+    links: {
+      github: "https://github.com/lidugirma60/haramaya-portal-sample",
+      live: "https://haramaya-portal-sample.vercel.app",
+    },
+  },
 ];
 
 export const projectFilters: { id: ProjectCategory | "ALL"; label: string }[] = [

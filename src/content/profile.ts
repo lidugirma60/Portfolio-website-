@@ -29,7 +29,7 @@ export const profile = {
     telegram: "https://t.me/Lidoo13",
     twitter: "https://x.com/selemgirma",
     youtube: "https://youtube.com/@selemgirma",
-    domain: "https://selemgirma.dev",
+    domain: "https://selem-portfolio.vercel.app",
   },
 
   // Path served from /public.
