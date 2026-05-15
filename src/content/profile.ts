@@ -23,7 +23,7 @@ export const profile = {
 
   // Replace these with your real handles. Used in the contact gateway + footer.
   social: {
-    github: "https://github.com/selemgirma",
+    github: "https://github.com/lidugirma60",
     linkedin: "https://www.linkedin.com/in/selemgirma",
     email: "selemgirma@protonmail.com",
     telegram: "https://t.me/selemgirma",
